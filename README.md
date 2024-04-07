@@ -2,7 +2,6 @@
 
 <h1>Phase 6</h1>
 
-Structureality is concerned about their susceptibility to soical engineering attacks and have given approval to test their personnel. I will perform a simulated social engineering attack against their employee using the Social Engineering Toolkit (SET). The goal is to trick a victim into running a malicious payload which will result in a reverse shell being established between the victim and the attacker systems.
 
 **<p style="font-size: 15px;">Step 1: Use SQLMAP to Hack a Database.</p>**
 
